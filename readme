@@ -1,0 +1,11 @@
+1: git repo has been created for the project!
+
+2: blank index.html document has been created, boiler plate was added. As well script.js file has been linked.
+
+3: function to represent the computer opponents choices has been created. 
+
+4: function for play a round has been created and all 9 out comes have been accounted for. 
+
+6: wrote a game() function to run a for loop 5 times.
+in the function we call a prompt to assign a value to the playerSelection variable.
+we also run the computerPlay function to randomly assing a value to the computerSelection variable.
